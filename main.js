@@ -29,7 +29,7 @@ $(document).ready(function() {
         for (var x in arr){
         console.log(myArr[x] + 'yelp')
 
-        
+
 
         }
       }
